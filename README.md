@@ -1,5 +1,7 @@
 # nosql-challenge
 
+![London](https://github.com/user-attachments/assets/976f198c-4ca1-4d59-b7b5-05f6f2973c29)
+
 
 # NoSQL Challenge - UK Food Standards Agency Database Analysis
 #Project Description
